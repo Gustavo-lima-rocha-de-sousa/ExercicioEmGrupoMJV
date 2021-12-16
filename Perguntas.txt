@@ -3,16 +3,31 @@
 De: Gustavo Para Gabriela
 
 Quando decidiu ir para área de desenvolvimento? 
+<<<<<<< HEAD
 
 Qual tecnologia tem mais domínio? 
 
+=======
+R- No início deste ano de 2021, já não estava mais satisfeita com a minha profissão.
+
+Qual tecnologia tem mais domínio? 
+R- JavaScript
+>>>>>>> master
 --------------------------------------------------------
 
 De Gustavo Para Monique
 
+<<<<<<< HEAD
 Quando se sentiu atraída para a área de programação? 
 
 Qual o nível de conhecimento que chegar em java?
+=======
+Quando se sentiu atraída para a área de programação?
+Resposta: Desde nova sempre quis trabalhar em algo relacionado a tecnologia, mas não sabia com o que. Entrou pandemia, e repensei minha vida, decidi começar a estudar e cheguei a conclusão de que me encaxaria bem em programação.
+
+Qual o nível de conhecimento que chegar em java?
+Resposta: Quero me especializar em java.
+>>>>>>> master
 
 --------------------------------------------------------
 
@@ -54,8 +69,15 @@ Há alguma linguagem de programação que tenha interesse além do java ?
 De: Mayara para Gabriela
 
 O que mais gosta em programação?
+<<<<<<< HEAD
 
 Há quanto tempo está nessa área?
+=======
+R- Ver os códigos funcionando, seja na tela ou por trás dela.
+
+Há quanto tempo está nessa área?
+R- Aind a aguardo a minha primeira oportunidade na área.
+>>>>>>> master
 
 ----------------------------------------------------------------------
 
@@ -63,6 +85,51 @@ De: Mayara para Wagner
 
 Qual sua tecnologia favorita?
 
+<<<<<<< HEAD
 Já trabalhou com java antes?
 
 ----------------------------------------------------------------------
+=======
+R= favorita e difícil em falar mas gosto bastante de javaScript usando o framework AngularJs
+
+Já trabalhou com java antes?
+
+R= Não , so fiz alguns cursos da digital innovation e foram praticamente introdução mas deu  pra pegar alguma coi
+
+----------------------------------------------------------------------
+De: Monique para Gustavo
+
+Pergunta 1 - Você já teve contato com Java anteriormente? :)
+R= Sim, faço curso de fullstack java web.
+
+
+Pergunta 2 - Sempre quis trabalhar com programação? ♥
+R= Não, comecei a gostar assim que entrei na faculdade(Que descobri atraves da minha namorada).
+
+
+----------------------------------------------------------------------
+
+De: Gabriela para Monique
+
+Já estudou JAVA antes?
+Resposta: NãO, nunca. Só ouvi falar, ou vi programas durante a rotina que precisavam de Java.
+
+
+Há quanto tempo está na área de programação?
+Resposta: Estou estudando desde agosto. Estou em transição de carreira, de comércio exterior para tec.
+
+----------------------------------------------------------------------
+
+De: Gabriela para Wagner
+
+O que você espera do curso de JAVA?
+
+Qual stack você mais se identifica?
+
+----------------------------------------------------------------------
+De: Monique para Matheus
+
+Pergunta 1 - Por que decidiu estudar programação? :)
+
+Pergunta 2 - Seu irmão trabalha há muito tempo com programação? ♥
+>>>>>>> master
