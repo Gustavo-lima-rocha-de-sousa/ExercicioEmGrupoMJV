@@ -47,8 +47,10 @@ R= Orientação a objetos e a funcionalidade multiplataforma.
 De : Matheus para Mayara 
 
 Tem alguma linguagem de programação preferida ?
+R= Java :)
 
 Há alguma linguagem de programação que tenha interesse além do java ?
+R= Gosto de pyhon pela facilidade de aprendizado.
 
 ----------------------------------------------------------------------
 De: Mayara para Gabriela
