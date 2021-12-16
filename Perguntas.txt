@@ -3,9 +3,10 @@
 De: Gustavo Para Gabriela
 
 Quando decidiu ir para área de desenvolvimento? 
+R- No início deste ano de 2021, já não estava mais satisfeita com a minha profissão.
 
 Qual tecnologia tem mais domínio? 
-
+R- JavaScript
 --------------------------------------------------------
 
 De Gustavo Para Monique
@@ -56,8 +57,9 @@ Há alguma linguagem de programação que tenha interesse além do java ?
 De: Mayara para Gabriela
 
 O que mais gosta em programação?
-
+R- Ver os códigos funcionando, seja na tela ou por trás dela.
 Há quanto tempo está nessa área?
+R- Aind a aguardo a minha primeira oportunidade na área.
 
 ----------------------------------------------------------------------
 
@@ -72,6 +74,21 @@ Já trabalhou com java antes?
 R= Não , so fiz alguns cursos da digital innovation e foram praticamente introdução mas deu  pra pegar alguma coisas de bom .
 ----------------------------------------------------------------------
 De: Monique para Gustavo
+
+
+De: Gabriela para Monique
+
+Já estudou JAVA antes?
+
+Há quanto tempo está na área de programação?
+
+----------------------------------------------------------------------
+
+De: Gabriela para Wagner
+
+O que você espera do curso de JAVA?
+
+Qual stack você mais se identifica?
 
 Pergunta 1 - Você já teve contato com Java anteriormente? :)
 
