@@ -1,4 +1,4 @@
-Realizar as perguntas aqui:
+﻿Realizar as perguntas aqui:
 
 De: Gustavo Para Gabriela
 
@@ -12,3 +12,19 @@ De Gustavo Para Monique
 Quando se sentiu atraída para a área de programação? 
 
 Qual o nível de conhecimento que chegar em java?
+
+--------------------------------------------------------
+De: Wagner para Gustavo 
+
+Quando começou a estudar progamação ?
+
+Já trabalha na área ou ja trabalhou ?
+
+De : Wagner para Matheus 
+
+Qual linguagem de progamação que mais estuda ?
+
+Qual objetivo esta buscando na área da progamação ?
+
+---------------------------------------------------------
+
