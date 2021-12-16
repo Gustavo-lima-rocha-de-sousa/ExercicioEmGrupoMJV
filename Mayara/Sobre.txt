@@ -1,0 +1,6 @@
+Esse é o meu sobre.
+Me chamo Mayara Saavedra denho 26 anos (quase 27),cursei fisica duarante alguns anos na USP e 
+até cheguei a trabalhar como professora e monitora em um parque da USP, mas além de ser uma área 
+que não traz muito retorno financeiramente eu me decepcionei com o curso, então decifi migrar 
+para a área da tecnologia.
+No começo era bem perdida em relação a qual area seguir, mas me encontrei em java.
