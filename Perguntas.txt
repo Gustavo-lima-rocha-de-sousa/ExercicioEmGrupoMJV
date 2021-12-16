@@ -11,9 +11,11 @@ R- JavaScript
 
 De Gustavo Para Monique
 
-Quando se sentiu atraída para a área de programação? 
+Quando se sentiu atraída para a área de programação?
+Resposta: Desde nova sempre quis trabalhar em algo relacionado a tecnologia, mas não sabia com o que. Entrou pandemia, e repensei minha vida, decidi começar a estudar e cheguei a conclusão de que me encaxaria bem em programação.
 
 Qual o nível de conhecimento que chegar em java?
+Resposta: Quero me especializar em java.
 
 --------------------------------------------------------
 
@@ -71,6 +73,8 @@ Já trabalhou com java antes?
 
 R= Não , so fiz alguns cursos da digital innovation e foram praticamente introdução mas deu  pra pegar alguma coisas de bom .
 ----------------------------------------------------------------------
+De: Monique para Gustavo
+
 
 De: Gabriela para Monique
 
@@ -85,3 +89,14 @@ De: Gabriela para Wagner
 O que você espera do curso de JAVA?
 
 Qual stack você mais se identifica?
+
+Pergunta 1 - Você já teve contato com Java anteriormente? :)
+
+Pergunta 2 - Sempre quis trabalhar com programação? ♥
+
+----------------------------------------------------------------------
+De: Monique para Matheus
+
+Pergunta 1 - Por que decidiu estudar programação? :)
+
+Pergunta 2 - Seu irmão trabalha há muito tempo com programação? ♥
