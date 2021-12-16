@@ -3,31 +3,19 @@
 De: Gustavo Para Gabriela
 
 Quando decidiu ir para área de desenvolvimento? 
-<<<<<<< HEAD
-
-Qual tecnologia tem mais domínio? 
-
-=======
 R- No início deste ano de 2021, já não estava mais satisfeita com a minha profissão.
 
 Qual tecnologia tem mais domínio? 
 R- JavaScript
->>>>>>> master
 --------------------------------------------------------
 
 De Gustavo Para Monique
 
-<<<<<<< HEAD
-Quando se sentiu atraída para a área de programação? 
-
-Qual o nível de conhecimento que chegar em java?
-=======
 Quando se sentiu atraída para a área de programação?
 Resposta: Desde nova sempre quis trabalhar em algo relacionado a tecnologia, mas não sabia com o que. Entrou pandemia, e repensei minha vida, decidi começar a estudar e cheguei a conclusão de que me encaxaria bem em programação.
 
 Qual o nível de conhecimento que chegar em java?
 Resposta: Quero me especializar em java.
->>>>>>> master
 
 --------------------------------------------------------
 
@@ -62,24 +50,17 @@ R= Orientação a objetos e a funcionalidade multiplataforma.
 De : Matheus para Mayara 
 
 Tem alguma linguagem de programação preferida ?
-R= Java :)
 
 Há alguma linguagem de programação que tenha interesse além do java ?
-R= Gosto de pyhon pela facilidade de aprendizado.
 
 ----------------------------------------------------------------------
 De: Mayara para Gabriela
 
 O que mais gosta em programação?
-<<<<<<< HEAD
-
-Há quanto tempo está nessa área?
-=======
 R- Ver os códigos funcionando, seja na tela ou por trás dela.
 
 Há quanto tempo está nessa área?
 R- Aind a aguardo a minha primeira oportunidade na área.
->>>>>>> master
 
 ----------------------------------------------------------------------
 
@@ -87,11 +68,6 @@ De: Mayara para Wagner
 
 Qual sua tecnologia favorita?
 
-<<<<<<< HEAD
-Já trabalhou com java antes?
-
-----------------------------------------------------------------------
-=======
 R= favorita e difícil em falar mas gosto bastante de javaScript usando o framework AngularJs
 
 Já trabalhou com java antes?
@@ -134,4 +110,3 @@ De: Monique para Matheus
 Pergunta 1 - Por que decidiu estudar programação? :)
 
 Pergunta 2 - Seu irmão trabalha há muito tempo com programação? ♥
->>>>>>> master
