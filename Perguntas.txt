@@ -1,0 +1,68 @@
+﻿Realizar as perguntas aqui:
+
+De: Gustavo Para Gabriela
+
+Quando decidiu ir para área de desenvolvimento? 
+
+Qual tecnologia tem mais domínio? 
+
+--------------------------------------------------------
+
+De Gustavo Para Monique
+
+Quando se sentiu atraída para a área de programação? 
+
+Qual o nível de conhecimento que chegar em java?
+
+--------------------------------------------------------
+
+De: Wagner para Gustavo 
+
+Quando começou a estudar progamação ?
+R= Comecei em 2019 assim que terminei o ensino médio, mas só foquei em uma linguagem assim que terminei a faculdade (07/2021).
+
+Já trabalha na área ou ja trabalhou ?
+R= Ainda não trabalho na área, to correndo atrás da primeira oportunidade.
+
+--------------------------------------------------------
+
+De : Wagner para Matheus 
+
+Qual linguagem de progamação que mais estuda ?
+
+Qual objetivo esta buscando na área da progamação ?
+
+---------------------------------------------------------
+
+De: Matheus para Gustavo 
+
+Quando começou a estudar progamação ?
+R= Comecei em 2019 assim que terminei o ensino médio, mas só foquei em uma linguagem assim que terminei a faculdade (07/2021).
+
+O que te chama atenção no java ?
+R= Orientação a objetos e a funcionalidade multiplataforma.
+
+----------------------------------------------------------------------
+
+De : Matheus para Mayara 
+
+Tem alguma linguagem de programação preferida ?
+
+Há alguma linguagem de programação que tenha interesse além do java ?
+
+----------------------------------------------------------------------
+De: Mayara para Gabriela
+
+O que mais gosta em programação?
+
+Há quanto tempo está nessa área?
+
+----------------------------------------------------------------------
+
+De: Mayara para Wagner
+
+Qual sua tecnologia favorita?
+
+Já trabalhou com java antes?
+
+----------------------------------------------------------------------
