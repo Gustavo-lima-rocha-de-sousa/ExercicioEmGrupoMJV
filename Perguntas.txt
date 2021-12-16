@@ -78,8 +78,12 @@ R= Não , so fiz alguns cursos da digital innovation e foram praticamente introd
 De: Monique para Gustavo
 
 Pergunta 1 - Você já teve contato com Java anteriormente? :)
+R= Sim, faço curso de fullstack java web.
+
 
 Pergunta 2 - Sempre quis trabalhar com programação? ♥
+R= Não, comecei a gostar assim que entrei na faculdade(Que descobri atraves da minha namorada).
+
 
 ----------------------------------------------------------------------
 
