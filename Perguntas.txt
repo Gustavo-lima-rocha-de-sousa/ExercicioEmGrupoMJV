@@ -58,6 +58,7 @@ De: Mayara para Gabriela
 
 O que mais gosta em programação?
 R- Ver os códigos funcionando, seja na tela ou por trás dela.
+
 Há quanto tempo está nessa área?
 R- Aind a aguardo a minha primeira oportunidade na área.
 
@@ -71,10 +72,16 @@ R= favorita e difícil em falar mas gosto bastante de javaScript usando o framew
 
 Já trabalhou com java antes?
 
-R= Não , so fiz alguns cursos da digital innovation e foram praticamente introdução mas deu  pra pegar alguma coisas de bom .
+R= Não , so fiz alguns cursos da digital innovation e foram praticamente introdução mas deu  pra pegar alguma coi
+
 ----------------------------------------------------------------------
 De: Monique para Gustavo
 
+Pergunta 1 - Você já teve contato com Java anteriormente? :)
+
+Pergunta 2 - Sempre quis trabalhar com programação? ♥
+
+----------------------------------------------------------------------
 
 De: Gabriela para Monique
 
@@ -89,10 +96,6 @@ De: Gabriela para Wagner
 O que você espera do curso de JAVA?
 
 Qual stack você mais se identifica?
-
-Pergunta 1 - Você já teve contato com Java anteriormente? :)
-
-Pergunta 2 - Sempre quis trabalhar com programação? ♥
 
 ----------------------------------------------------------------------
 De: Monique para Matheus
