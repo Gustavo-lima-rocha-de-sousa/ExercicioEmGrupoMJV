@@ -63,7 +63,10 @@ De: Mayara para Wagner
 
 Qual sua tecnologia favorita?
 
+R= favorita e difícil em falar mas gosto bastante de javaScript usando o framework AngularJs
+
 Já trabalhou com java antes?
 
+R= Não , so fiz alguns cursos da digital innovation e foram praticamente introdução mas deu  pra pegar alguma coisas de bom .
 ----------------------------------------------------------------------
 
