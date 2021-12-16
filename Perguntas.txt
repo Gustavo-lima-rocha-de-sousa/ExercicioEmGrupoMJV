@@ -86,8 +86,11 @@ Pergunta 2 - Sempre quis trabalhar com programação? ♥
 De: Gabriela para Monique
 
 Já estudou JAVA antes?
+Resposta: NãO, nunca. Só ouvi falar, ou vi programas durante a rotina que precisavam de Java.
+
 
 Há quanto tempo está na área de programação?
+Resposta: Estou estudando desde agosto. Estou em transição de carreira, de comércio exterior para tec.
 
 ----------------------------------------------------------------------
 
