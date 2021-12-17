@@ -1,0 +1,14 @@
+			GitLab
+
+1-
+
+2- O GitLab tem dado o foco à integração com ferramentas de DevOps, 
+proporciona, nativamente, ferramentas de integração e entrega contínua ou CI/CD, 
+além de métricas para acompanhamento de qualidade de código, performance e teste de usabilidade.
+
+
+
+
+
+
+Links: https://www.zup.com.br/blog/git-github-e-gitlab
