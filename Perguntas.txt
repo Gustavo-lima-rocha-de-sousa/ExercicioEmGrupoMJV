@@ -32,8 +32,10 @@ R= Ainda não trabalho na área, to correndo atrás da primeira oportunidade.
 De : Wagner para Matheus 
 
 Qual linguagem de progamação que mais estuda ?
+R=Estudo muito java, quero me especializar nessa linguagem e solidificar meu conhecimento.
 
 Qual objetivo esta buscando na área da progamação ?
+R=Atuar como desenvolvedor back end e consolidar na carreira
 
 ---------------------------------------------------------
 
@@ -110,5 +112,7 @@ Qual stack você mais se identifica?
 De: Monique para Matheus
 
 Pergunta 1 - Por que decidiu estudar programação? :)
+R= Por gostar a muito tempo de tecnologia isso desde pequeno e sempre tive muito interesse e curiosidade na carreira de desenvolvedor.
 
 Pergunta 2 - Seu irmão trabalha há muito tempo com programação? ♥
+R=Não mas ela tem interesse em fazer a troca para a area de tecnologia.
