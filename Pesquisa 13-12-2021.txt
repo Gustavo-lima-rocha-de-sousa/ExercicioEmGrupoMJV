@@ -8,10 +8,18 @@ utilize os repositórios privados do GitLab.
 proporciona, nativamente, ferramentas de integração e entrega contínua ou CI/CD, 
 além de métricas para acompanhamento de qualidade de código, performance e teste de usabilidade.
 
+3-A empresa GitLab Inc. decidiu por implementar o modelo de negócio com código fonte aberto e código fonte proprietário pois, para continuarem com o projeto precisavam de uma fonte de renda recorrente.
 
-
+Quando a comunidade contribui com uma feature,
+no merge request deve ser utilizado uma label para indicar se desejam que a feature seja disponibilizada na versão
+Open Source ou na Enterprise Edition (Versão Paga). 
+Quando a feature é desenvolvida exclusivamente pela equipe principal do GitLab, 
+são avaliados quais seriam os possíveis compradores para determinar se a mesma será disponibilizada em na versão paga ou aberta. 
+A equipe do GitLab também utiliza o feedback da comunidade para decidir quando é necessário incluir alguma alteração da versão Enterprise na versão de Aberta
+Os proprietarios do GitLab são: 
 
 
 
 Links: https://www.zup.com.br/blog/git-github-e-gitlab;
-https://pt.stackoverflow.com/questions/224304/diferenças-e-vantagens-entre-github-e-gitlab
+https://pt.stackoverflow.com/questions/224304/diferenças-e-vantagens-entre-github-e-gitlab, 
+https://magsilva.pro.br/apps/wiki/oss/GitLab_Community_Edition
