@@ -29,3 +29,4 @@ GitLab contém informações muito detalhadas sobre como importar projetos para 
 Links: https://www.zup.com.br/blog/git-github-e-gitlab;
 https://pt.stackoverflow.com/questions/224304/diferenças-e-vantagens-entre-github-e-gitlab, 
 https://magsilva.pro.br/apps/wiki/oss/GitLab_Community_Edition
+https://blog.desdelinux.net/pt/github-vs-gitlab/
