@@ -1,6 +1,8 @@
 			GitLab
 
-1-
+1-GitLab: permite a criação de inúmeros repositórios públicos e privados gratuitamente, 
+assim como inúmeros colaboradores,se deseja utilizar o serviço sem expor o código fonte, 
+utilize os repositórios privados do GitLab.
 
 2- O GitLab tem dado o foco à integração com ferramentas de DevOps, 
 proporciona, nativamente, ferramentas de integração e entrega contínua ou CI/CD, 
@@ -11,4 +13,5 @@ além de métricas para acompanhamento de qualidade de código, performance e te
 
 
 
-Links: https://www.zup.com.br/blog/git-github-e-gitlab
+Links: https://www.zup.com.br/blog/git-github-e-gitlab;
+https://pt.stackoverflow.com/questions/224304/diferenças-e-vantagens-entre-github-e-gitlab
