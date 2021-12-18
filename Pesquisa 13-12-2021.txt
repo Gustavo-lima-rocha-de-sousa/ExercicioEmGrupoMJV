@@ -24,7 +24,7 @@ R= GitLab pode definir e modificar permissões para diferentes colaboradores de 
 Embora ambas as plataformas permitam que você hospede o conteúdo dos projetos nas próprias plataformas, no caso do GitLab também pode permitir que você hospede a si mesmo seus repos, o que pode ser uma vantagem em alguns casos;
 GitLab contém informações muito detalhadas sobre como importar projetos para movê-los de uma plataforma para outra, como GitHub, Bitbucket, ou trazê-los para o GitLab. Além disso, quando se trata de exportação, o GitLab oferece um trabalho muito sólido. 
 
-
+Por que o GitLab apesar de ter muitas vantagens ainda não consegue se consolidar no mercado ?
 
 Links: https://www.zup.com.br/blog/git-github-e-gitlab;
 https://pt.stackoverflow.com/questions/224304/diferenças-e-vantagens-entre-github-e-gitlab, 
